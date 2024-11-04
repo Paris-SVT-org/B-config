@@ -8,7 +8,7 @@
 
     <applicationManager autoExpand="true"/>
 
-    <webApplication contextRoot="/B" id="B" location="${server.config.dir}/apps/B.ear">
-    </webApplication>
+    <enterpriseApplication contextRoot="/B" id="B" location="${server.config.dir}/apps/B.ear">
+    </enterpriseApplication>
 
 </server>
