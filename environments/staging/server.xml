@@ -11,4 +11,5 @@
     <enterpriseApplication contextRoot="/B" id="B" location="${server.config.dir}/apps/B-ee8.ear">
     </enterpriseApplication>
 
+    
 </server>
