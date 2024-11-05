@@ -9,3 +9,8 @@ app:
     min: 1
     max: 1
   java: 17
+  env:
+    - name: OTEL_LOGS_EXPORTER
+      value: "none"  
+    - name: OTEL_METRICS_EXPORTER
+      value: "none"  
