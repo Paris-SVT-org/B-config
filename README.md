@@ -1,1 +1,3 @@
-B-config
+# B-config
+
+http://HOST:PORT/B
